@@ -9,4 +9,5 @@ Link to Data used to train the model: https://drive.google.com/drive/folders/1nI
 Original Source of Data: https://www.kaggle.com/datasets/paultimothymooney/kermany2018
 
 File Structure:
-<img width="355" alt="image" src="https://github.com/mayvid6-6/ML/assets/97320735/2eca20fa-0058-4484-948d-b9343161d35c">
+
+<img width="355" alt="image" align="left" src="https://github.com/mayvid6-6/ML/assets/97320735/2eca20fa-0058-4484-948d-b9343161d35c">
