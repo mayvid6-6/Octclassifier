@@ -1,5 +1,5 @@
 # ML
-Playing around with a baby version of my final project for my Senior year mentorship.
+My final project for my Senior year mentorship.
 
 
 [Link to weights](https://drive.google.com/file/d/1PXhowIZS9AEpSVhhy-grVsENkkInoBgR/view?usp=drive_link)
